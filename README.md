@@ -1,3 +1,5 @@
+Connectify (Social Media Web App)
+
 Feature List:
 
 -   🌟 Tech stack: MERN + Socket.io + Chakra UI
